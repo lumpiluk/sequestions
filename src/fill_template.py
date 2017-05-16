@@ -9,11 +9,11 @@ from getopt import getopt, GetoptError
 DEFAULT_TEMPLATE = """
 {% for question in questions %}
 {% if question.prompt %}
-- (Source: {{ question.source.link }})
+- (Source: [{{ question.source.link }}]({{ question.source.link }}))
   - *IL:* {{ question.prompt }}
   - *Q:* {{ question.question }}
 {% else %}
-- {{ question.question }} (Source: {{ question.source.link }})
+- {{ question.question }} (Source: [{{ question.source.link }}]({{ question.source.link }}))
 {% endif %}
 {% endfor %}
 """

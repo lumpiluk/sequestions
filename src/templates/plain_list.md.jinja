@@ -1,0 +1,13 @@
+# Questions
+
+For more information on this project and for different versions of this list (like flash cards or a PDF document), visit the [project page](https://github.com/lumpiluk/sequestions) on Github.
+
+{% for question in questions %}
+{% if question.prompt %}
+- (Source: [{{ question.source.link }}]({{ question.source.link }}))
+  - *IL:* {{ question.prompt }}
+  - *Q:* {{ question.question }}
+{% else %}
+- {{ question.question }} (Source: [{{ question.source.link }}]({{ question.source.link }}))
+{% endif %}
+{% endfor %}
