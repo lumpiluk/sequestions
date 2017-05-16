@@ -6,3 +6,5 @@ The assembly of this list has been inspired by [Anthony Magnabosco](https://www.
 - (Source: [https://twitter.com/magnabosco/status/864122483728896000](https://twitter.com/magnabosco/status/864122483728896000))
   - "I just know my God exists."
   - "Does it concern you in any way that a terrorist with a competing God belief would say the exact same thing?"
+- If this wasn't true, would you want to know that? (Source: [https://youtu.be/K4zFDZeBTYk?t=21m12s](https://youtu.be/K4zFDZeBTYk?t=21m12s))
+- Can people be mistaken about their memories / experiences? (Source: [https://youtu.be/K4zFDZeBTYk?t=23m20s](https://youtu.be/K4zFDZeBTYk?t=23m20s))
