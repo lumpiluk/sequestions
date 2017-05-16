@@ -1,6 +1,26 @@
 # SE Questions
 
-The assembly of this list has been inspired by [Anthony Magnabosco](https://www.youtube.com/user/magnabosco210)'s occasional tweets containing questions which may be useful when practicing [Street Epistemology](https://streetepistemology.com). My hope is that this list will help people think of good questions more easily in stressful situations. However, please consider carefully whether you want to bring the actual list to a conversation.
+The assembly of this list has been inspired by [Anthony Magnabosco](https://www.youtube.com/user/magnabosco210)'s occasional tweets with questions that may be useful when practicing [Street Epistemology](https://streetepistemology.com). My hope is that this list will help people with thinking of good questions in stressful situations. However, please consider carefully whether you want to bring the actual list to a conversation.
+
+## Download
+
+- [Plain text file (Markdown)](https://raw.githubusercontent.com/lumpiluk/sequestions/master/se_questions.md)
+- PDF: coming soon!
+- Flash cards: coming soon!
+
+## Adding Questions
+
+The easiest way to get a question added is probably to send me a message (e.g. via Twitter, where this all started; I'm [@lumpiluk](https://twitter.com/Lumpiluk)). The other way is to use Github's collaboration features.
+
+For the latter option you'll want to clone this repository. Your question and source information goes to the end of the file se_questions.yaml. If you want, you can then run `make` in the terminal to compile the list into Markdown and PDF. This requires some dependencies, though:
+
+- The program `make`, which in Ubuntu is included in the package build-essential
+- Python 3
+  - PyYAML for parsing YAML files, which in Ubuntu is included in the package python3-yaml
+  - The Python templating engine Jinja2, which in Ubuntu is included in the package python3-jinja2
+- A LaTeX distribution for PDFs and flash cards, e.g. TeX Live
+
+## The Questions
 
 - If you discovered that your belief was causing harm, would you be more open to re-examining it for accuracy? (Source: [https://twitter.com/magnabosco/status/864207815732338690](https://twitter.com/magnabosco/status/864207815732338690))
 - (Source: [https://twitter.com/magnabosco/status/864122483728896000](https://twitter.com/magnabosco/status/864122483728896000))
@@ -25,5 +45,5 @@ The assembly of this list has been inspired by [Anthony Magnabosco](https://www.
 - Is a belief true because lots of other people hold it? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Does prayer always work? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What does a failed prayer look like? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
-- How could a person build a test for karma/miracles/prayer/a God? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- How could a person build a test for karma/miracles/prayer/a God/…? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What would it take to discard your belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))

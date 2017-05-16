@@ -7,4 +7,4 @@ se_questions.md: src/fill_template.py src/templates/plain_list.md.jinja se_quest
 	src/fill_template.py --in se_questions.yaml --out se_questions.md --template plain_list.md.jinja
 
 cleanall:
-	rm -f Readme.md
+	rm -f Readme.md se_questions.md

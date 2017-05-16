@@ -1,6 +1,6 @@
 # Questions
 
-For more information on this project and for different versions of this list (like flash cards or a PDF document), visit the [project page](https://github.com/lumpiluk/sequestions) on Github.
+For more information about this project and for different versions of this list (like flash cards or a PDF document), visit the [project page](https://github.com/lumpiluk/sequestions) on Github.
 
 - If you discovered that your belief was causing harm, would you be more open to re-examining it for accuracy? (Source: [https://twitter.com/magnabosco/status/864207815732338690](https://twitter.com/magnabosco/status/864207815732338690))
 - (Source: [https://twitter.com/magnabosco/status/864122483728896000](https://twitter.com/magnabosco/status/864122483728896000))
@@ -25,5 +25,5 @@ For more information on this project and for different versions of this list (li
 - Is a belief true because lots of other people hold it? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Does prayer always work? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What does a failed prayer look like? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
-- How could a person build a test for karma/miracles/prayer/a God? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- How could a person build a test for karma/miracles/prayer/a God/…? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What would it take to discard your belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
