@@ -6,7 +6,8 @@ The assembly of this list has been inspired by [Anthony Magnabosco](https://www.
 
 - [Plain text file (Markdown)](https://raw.githubusercontent.com/lumpiluk/sequestions/master/se_questions.md)
 - PDF: coming soon!
-- Flash cards: coming soon!
+- Flash cards:
+  [5 times 2 cards per double-sided A4 page](https://github.com/lumpiluk/sequestions/blob/master/flashcards_5x2-on-a4paper.pdf)
 
 ## Adding Questions
 
