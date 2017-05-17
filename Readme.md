@@ -7,7 +7,7 @@ The assembly of this list has been inspired by [Anthony Magnabosco](https://www.
 - [Plain text file (Markdown)](https://raw.githubusercontent.com/lumpiluk/sequestions/master/se_questions.md)
 - PDF: coming soon!
 - Flash cards:
-  [5 times 2 cards per double-sided A4 page](https://github.com/lumpiluk/sequestions/blob/master/flashcards_5x2-on-a4paper.pdf)
+  - [5 times 2 cards per double-sided A4 page](https://github.com/lumpiluk/sequestions/blob/master/flashcards_5x2-on-a4paper.pdf)
 
 ## Adding Questions
 
@@ -48,3 +48,12 @@ If you wish to add questions on your own, you'll want to clone this repository. 
 - What does a failed prayer look like? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - How could a person build a test for karma / miracles / prayer / a God / …? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What would it take to discard your belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- Is holding this belief more important to you than the belief being true? (Source: [https://twitter.com/magnabosco/status/850712375389028353](https://twitter.com/magnabosco/status/850712375389028353))
+- You don't accept my personal testimony of other people's personal testimonies, but you would like me to accept your personal testimony? (Source: [https://twitter.com/magnabosco/status/850404282209902593](https://twitter.com/magnabosco/status/850404282209902593))
+- (Source: [https://twitter.com/magnabosco/status/850331158642642944](https://twitter.com/magnabosco/status/850331158642642944))
+  - *IL:* If I was shown to be mistaken, I'd still believe it was true.
+  - *Q:* Would you let a surgeon who also devalues truth to operate on your child?
+- (Source: [https://twitter.com/magnabosco/status/845505179315294213](https://twitter.com/magnabosco/status/845505179315294213))
+  - *IL:* I feel sorry for lots of people when Judgement Day comes.
+  - *Q:* Is your belief in a God based on a fear of being punished, or something else?
+- Would your belief change if or when we discovered how to extend our lives almost indefinitely? (Source: [https://twitter.com/magnabosco/status/845519597906399232](https://twitter.com/magnabosco/status/845519597906399232))
