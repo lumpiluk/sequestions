@@ -1,6 +1,6 @@
 # SE Questions
 
-The assembly of this list has been inspired by [Anthony Magnabosco](https://www.youtube.com/user/magnabosco210)'s occasional tweets with questions that may be useful when practicing [Street Epistemology](https://streetepistemology.com). My hope is that this list will help people with thinking of good questions in stressful situations. However, please consider carefully whether you want to bring the actual list to a conversation.
+The assembly of this list has been inspired by [Anthony Magnabosco](https://www.youtube.com/user/magnabosco210)'s occasional tweets with questions that may be useful when practicing [Street Epistemology](https://streetepistemology.com). My hope is that this list will help people in stressful situations with thinking of good questions to ask. However, please consider carefully whether you want to bring the actual list to a conversation.
 
 ## Download
 
@@ -10,9 +10,9 @@ The assembly of this list has been inspired by [Anthony Magnabosco](https://www.
 
 ## Adding Questions
 
-The easiest way to get a question added is probably to send me a message (e.g. via Twitter, where this all started; I'm [@lumpiluk](https://twitter.com/Lumpiluk)). The other way is to use Github's collaboration features.
+The easiest way to get a question added is to either report an issue with the issue tracker or to message me directly (e.g. via Twitter, where this all started; I'm [@lumpiluk](https://twitter.com/Lumpiluk)).
 
-For the latter option you'll want to clone this repository. Your question and source information goes to the end of the file se_questions.yaml. If you want, you can then run `make` in the terminal to compile the list into Markdown and PDF. This requires some dependencies, though:
+If you wish to add questions on your own, you'll want to clone this repository. Your question and source information go to the end of the file se_questions.yaml. If you want, you can then run `make` in the terminal to compile the list into Markdown and PDF. This requires some dependencies, though:
 
 - The program `make`, which in Ubuntu is included in the package build-essential
 - Python 3
@@ -40,10 +40,10 @@ For the latter option you'll want to clone this repository. Your question and so
 - If your God belief was mistaken, how would you discover that? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Would you rather have evidence or faith for your God belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - How does it feel to discover you were mistaken about something? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
-- If you were raised Christian/Muslim/Hindu/Pagan/atheist/…, would you believe it today? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- If you were raised Christian / Muslim / Hindu / Pagan / atheist / …, would you believe it today? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Is a belief true simply because it is old? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Is a belief true because lots of other people hold it? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Does prayer always work? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What does a failed prayer look like? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
-- How could a person build a test for karma/miracles/prayer/a God/…? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- How could a person build a test for karma / miracles / prayer / a God / …? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What would it take to discard your belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))

@@ -1,0 +1,74 @@
+\documentclass[
+    src/templates/{{ paper_layout or '5x2-on-a4paper' }},
+    frame
+]{flashcards}
+\cardfrontstyle{empty}
+\cardbackstyle{empty} % Do not center content like the "plain" option would. -> custom layout with custom header and footer (usually only on front side)
+
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks, % since hidelinks doesn't seem to work with flashcards...
+    linkcolor={black}, % {red!50!black},
+    citecolor={black}, % {blue!50!black},
+    urlcolor={black} % {blue!80!black}
+}
+
+\newcommand{\myheader}{}
+\newcommand{\myfooter}{
+    \begin{flushright}
+        \small\sc
+        Street Epistemology Questions \par
+    \end{flushright}
+}
+
+\begin{document}
+
+    {% for question in questions %}
+        \renewcommand{\myheader}{
+            \normalfont % override the default bold font
+            \begin{tiny}
+                Q{{ loop.index }}.
+                {{ question.source.date }}.
+                {{ question.source.name }}.
+                {% if question.source.description %}
+                    {{ question.source.description }}.
+                {% endif %}
+                {% if question.source.link %}
+                    \\
+                    \url{ {{ question.source.link }} }
+                {% endif %}
+                \par
+            \end{tiny}
+        }
+        \begin{flashcard}{
+            % card front
+            \myheader
+            \vspace{\fill}
+            \begin{center}
+                \large
+                {% if not question.prompt %}
+                    Q{{ loop.index }}
+                {% else %}
+                    IL: {% raw %}\enquote{{% endraw %}{{ question.prompt }}{% raw %}}{% endraw %}
+                {% endif %}
+            \end{center}
+            \vspace{\fill}
+            \myfooter
+            \vspace{-1.4ex}
+        }
+            % card back
+            \myheader
+            \vspace{\fill}
+            \begin{center}
+                \large
+                {% raw %}\enquote{{% endraw %}{{ question.question }}{% raw %}}{% endraw %}
+            \end{center}
+            \vspace{\fill}
+        \end{flashcard}
+    {% endfor %}
+
+\end{document}
