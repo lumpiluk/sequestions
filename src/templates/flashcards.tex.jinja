@@ -7,7 +7,10 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{csquotes}
-\usepackage[hidelinks]{hyperref}
+\usepackage[
+    hidelinks,
+    pdftitle=Street Epistemology Questions -- Flash Cards
+]{hyperref}
 
 \usepackage{xcolor}
 \hypersetup{
@@ -53,7 +56,8 @@
                 {% if not question.prompt %}
                     Q{{ loop.index }}
                 {% else %}
-                    IL: {% raw %}\enquote{{% endraw %}{{ question.prompt }}{% raw %}}{% endraw %}
+                    IL: {% raw %}\enquote{{% endraw %}{{ question.prompt|replace('…', '\\dots')|replace('...', '\\dots')|replace('/', '\\slash ') }}{% raw %}}{% endraw %}
+                    % replace '/' with '\slash ' to allow line breaks for slashes
                 {% endif %}
             \end{center}
             \vspace{\fill}
@@ -65,7 +69,7 @@
             \vspace{\fill}
             \begin{center}
                 \large
-                {% raw %}\enquote{{% endraw %}{{ question.question }}{% raw %}}{% endraw %}
+                {% raw %}\enquote{{% endraw %}{{ question.question|replace('…', '\\dots')|replace('...', '\\dots')|replace('/', '\\slash ') }}{% raw %}}{% endraw %}
             \end{center}
             \vspace{\fill}
         \end{flashcard}

@@ -1,0 +1,59 @@
+\documentclass[a4paper]{scrartcl}
+
+\usepackage[utf8]{inputenc}
+\usepackage[
+    hidelinks,
+    pdftitle=Street Epistemology Questions -- A List,
+]{hyperref}
+
+\title{Street Epistemology Questions}
+\subtitle{A List}
+
+\usepackage[yyyymmdd]{datetime} % use ISO date
+\renewcommand{\dateseparator}{-} % use ISO date
+\date{\today}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1ex}
+
+\begin{document}
+    \maketitle
+    
+    \section*{Introduction}
+    
+        The assembly of this list has been inspired by Anthony Magnabosco's\footnote{\url{https://twitter.com/magnabosco} and \url{https://www.youtube.com/user/magnabosco210}} occasional tweets with questions that may be useful when practicing Street Epistemology\footnote{\url{https://streetepistemology.com}}. My hope is that this list will help people in stressful situations with thinking of good questions to ask. However, please consider carefully whether you want to bring the actual list to a conversation.
+        
+        The current version of this document, along with the list in form of flash cards, can be found here: \url{https://github.com/lumpiluk/sequestions}.
+    
+    \section*{The Questions}
+    
+        \begin{itemize}
+            {% for question in questions %}
+                {% if not question.prompt %}
+                    \item {{ question.question|replace('…', '\\dots')|replace('...', '\\dots')|replace('/', '\\slash ') }}
+                    % replace '/' with '\slash ' to allow line breaks for slashes
+                    
+                {% else %}
+                    \item
+                    \begin{description}
+                        \item[IL:] {{ question.prompt|replace('…', '\\dots')|replace('...', '\\dots')|replace('/', '\\slash ') }}
+                        \item[Q:] {{ question.question|replace('…', '\\dots')|replace('...', '\\dots')|replace('/', '\\slash ') }}
+                    \end{description}
+                    
+                {% endif %}
+                \begin{tiny}
+                    Q{{ loop.index }}.
+                    {{ question.source.date }}.
+                    {{ question.source.name }}.
+                    {% if question.source.description %}
+                        {{ question.source.description }}.
+                    {% endif %}
+                    {% if question.source.link %}
+                        \\
+                        \url{ {{ question.source.link }} }
+                    {% endif %}
+                    \par
+                \end{tiny}
+            {% endfor %}
+        \end{itemize}
+\end{document}

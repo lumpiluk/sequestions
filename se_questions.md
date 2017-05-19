@@ -7,7 +7,7 @@ For more information about this project and for different versions of this list 
   - *IL:* I just know my God exists.
   - *Q:* Does it concern you in any way that a terrorist with a competing God belief would say the exact same thing?
 - If this wasn't true, would you want to know that? (Source: [https://youtu.be/K4zFDZeBTYk?t=21m12s](https://youtu.be/K4zFDZeBTYk?t=21m12s))
-- Can people be mistaken about their memories / experiences? (Source: [https://youtu.be/K4zFDZeBTYk?t=23m20s](https://youtu.be/K4zFDZeBTYk?t=23m20s))
+- Can people be mistaken about their memories/experiences? (Source: [https://youtu.be/K4zFDZeBTYk?t=23m20s](https://youtu.be/K4zFDZeBTYk?t=23m20s))
 - Is everything you've been taught true? (Has everything you've been taught been true?) (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Do beliefs that give comfort make them true? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Are feelings the best way to know if something is true? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
@@ -20,12 +20,12 @@ For more information about this project and for different versions of this list 
 - If your God belief was mistaken, how would you discover that? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Would you rather have evidence or faith for your God belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - How does it feel to discover you were mistaken about something? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
-- If you were raised Christian / Muslim / Hindu / Pagan / atheist / …, would you believe it today? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- If you were raised Christian/Muslim/Hindu/Pagan/atheist/…, would you believe it today? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Is a belief true simply because it is old? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Is a belief true because lots of other people hold it? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Does prayer always work? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What does a failed prayer look like? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
-- How could a person build a test for karma / miracles / prayer / a God / …? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
+- How could a person build a test for karma/miracles/prayer/a God/…? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - What would it take to discard your belief? (Source: [https://www.youtube.com/watch?v=eeADDe-ggmk](https://www.youtube.com/watch?v=eeADDe-ggmk))
 - Is holding this belief more important to you than the belief being true? (Source: [https://twitter.com/magnabosco/status/850712375389028353](https://twitter.com/magnabosco/status/850712375389028353))
 - You don't accept my personal testimony of other people's personal testimonies, but you would like me to accept your personal testimony? (Source: [https://twitter.com/magnabosco/status/850404282209902593](https://twitter.com/magnabosco/status/850404282209902593))
