@@ -22,9 +22,11 @@ cleanall: clean
 	rm -f Readme.md se_questions.md
 	latexmk -C flashcards_5x2-on-a4paper.tex
 	latexmk -C se_questions.tex
-	rm -f flashcards_5x2-on-a4paper.tex flashcards_5x2-on-a4paper.pdf
-	rm -f se_questions.tex
+	rm -f flashcards_5x2-on-a4paper.pdf
+	rm -f se_questions.pdf
 
 clean: 
 	latexmk -c flashcards_5x2-on-a4paper.tex
 	latexmk -c se_questions.tex
+	rm -f flashcards_5x2-on-a4paper.tex
+	rm -f se_questions.tex
