@@ -36,3 +36,4 @@ For more information about this project and for different versions of this list 
   - *IL:* I feel sorry for lots of people when Judgement Day comes.
   - *Q:* Is your belief in a God based on a fear of being punished, or something else?
 - Would your belief change if or when we discovered how to extend our lives almost indefinitely? (Source: [https://twitter.com/magnabosco/status/845519597906399232](https://twitter.com/magnabosco/status/845519597906399232))
+- How did you conclude that anything written in your holy book is a reliable source of truth and not a book of claims? (Source: [https://twitter.com/magnabosco/status/867581973530804225](https://twitter.com/magnabosco/status/867581973530804225))
