@@ -58,3 +58,6 @@ If you wish to add questions on your own, you'll want to clone this repository. 
   - *Q:* Is your belief in a God based on a fear of being punished, or something else?
 - Would your belief change if or when we discovered how to extend our lives almost indefinitely? (Source: [https://twitter.com/magnabosco/status/845519597906399232](https://twitter.com/magnabosco/status/845519597906399232))
 - How did you conclude that anything written in your holy book is a reliable source of truth and not a book of claims? (Source: [https://twitter.com/magnabosco/status/867581973530804225](https://twitter.com/magnabosco/status/867581973530804225))
+- (Source: [https://twitter.com/iDanSimpson/status/880768843114786816](https://twitter.com/iDanSimpson/status/880768843114786816))
+  - *IL:* You need a PhD in X before you can adequately challenge my position supporting God.
+  - *Q:* Did you believe in god before you had the PhD? If so, why did you believe then?
