@@ -40,3 +40,4 @@ For more information about this project and for different versions of this list 
 - (Source: [https://twitter.com/iDanSimpson/status/880768843114786816](https://twitter.com/iDanSimpson/status/880768843114786816))
   - *IL:* You need a PhD in X before you can adequately challenge my position supporting God.
   - *Q:* Did you believe in god before you had the PhD? If so, why did you believe then?
+- If you were raised to not believe that there was a god and you had these experiences, for such a person, what do you think the takeaway would have been in that situation? (Source: [https://youtu.be/MnlP8LI5AmM](https://youtu.be/MnlP8LI5AmM))

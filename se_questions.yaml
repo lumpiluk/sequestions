@@ -231,3 +231,12 @@
   name: Dan Simpson
   date: 2017-06-30
   description: Twitter
+-
+ question: If you were raised to not believe that there was a god and you had these experiences, for such a person, what do you think the takeaway would have been in that situation?
+ source:
+  link: https://youtu.be/MnlP8LI5AmM
+  name: Anthony Magnabosco
+  date: 2017-07-06
+  description: YouTube video
+  # Put the title in quotes so that the YAML parser doesn't get confused by the colon.
+  title: "Street Epistemology: Sarah | Exploring the Gray Zone"
