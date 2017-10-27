@@ -240,3 +240,10 @@
   description: YouTube video
   # Put the title in quotes so that the YAML parser doesn't get confused by the colon.
   title: "Street Epistemology: Sarah | Exploring the Gray Zone"
+-
+ question: How do you differentiate between your own independent thoughts and your belief that a God is speaking to you?
+ source:
+  link: https://twitter.com/magnabosco/status/923932996125839361
+  name: Anthony Magnabosco
+  date: 2017-10-27
+  description: Twitter
