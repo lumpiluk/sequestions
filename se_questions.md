@@ -42,3 +42,7 @@ For more information about this project and for different versions of this list 
   - *Q:* Did you believe in god before you had the PhD? If so, why did you believe then?
 - If you were raised to not believe that there was a god and you had these experiences, for such a person, what do you think the takeaway would have been in that situation? (Source: [https://youtu.be/MnlP8LI5AmM](https://youtu.be/MnlP8LI5AmM))
 - How do you differentiate between your own independent thoughts and your belief that a God is speaking to you? (Source: [https://twitter.com/magnabosco/status/923932996125839361](https://twitter.com/magnabosco/status/923932996125839361))
+- Could we be mistaken today like ancient Romans or Greeks were mistaken about their gods? Is there a way to minimize the risk? (Source: []())
+- What does a world where X isn't the case look like? (Source: [https://youtu.be/mLrgQFKeYQ0](https://youtu.be/mLrgQFKeYQ0))
+- If ten minutes from now X stopped being the case, what would change? (Source: [https://youtu.be/mLrgQFKeYQ0](https://youtu.be/mLrgQFKeYQ0))
+- If you were living in a world where X wasn't the case, what would you be looking for to discover that? (Source: [https://youtu.be/mLrgQFKeYQ0](https://youtu.be/mLrgQFKeYQ0))
